@@ -12,7 +12,7 @@ object **Rafael Britto** {
  val acknowledgements = "ÁREA DE CONHECIMENTO"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf(".NET", "Python", "R", "T-SQL", "Hadoop") 
+ val languages = listOf(".NET", "Python", "R", "T-SQL", "Javascript") 
 
 }
 ```

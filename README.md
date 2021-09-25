@@ -1,6 +1,6 @@
 ### Olá bem vindo ao meu repositório voltado ao estudo de dados 👋
 
-Amo tecnologia e dados se tornour parte de mim... Sério tipo "Data-Nuts"
+Amo tecnologia e dados se tornou parte de mim... Sério tipo "Data-Nuts"
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 

@@ -1,4 +1,4 @@
-### Olá bem vindo ao meu case de estudo voltado para dados 👋
+### Olá bem vindo ao meu repositório voltado ao estudo de dados 👋
 
 Amo tecnologia e dados se tornour parte de mim... Sério tipo "Data-Nuts"
 
